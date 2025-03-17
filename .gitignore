@@ -1,0 +1,14 @@
+# Compiled binary files
+*.hex
+*.elf
+
+# Build folders
+/build/
+.arduino/
+
+# OS system files
+.DS_Store
+Thumbs.db
+
+# Libraries (if not included in the repo)
+libraries/
